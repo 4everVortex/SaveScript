@@ -1,0 +1,4 @@
+		local Sparkles = Instance.new("Sparkles")
+		Sparkles.Parent = game.Players.LocalPlayer.Character.LowerTorso
+		Sparkles.Heat = 9999999999999999
+		Sparkles.Size = 9999999999999999
