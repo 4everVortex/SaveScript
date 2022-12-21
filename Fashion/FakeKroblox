@@ -1,0 +1,7 @@
+		game.Players.LocalPlayer.Character.RightUpperLeg.MeshId = "rbxassetid://902942096"
+		task.wait()
+		game.Players.LocalPlayer.Character.RightUpperLeg.TextureID = "rbxassetid://902843398"
+		task.wait()
+		game.Players.LocalPlayer.Character.RightLowerLeg.Transparency = 1
+		task.wait()
+		game.Players.LocalPlayer.Character.RightFoot.Transparency = 1
